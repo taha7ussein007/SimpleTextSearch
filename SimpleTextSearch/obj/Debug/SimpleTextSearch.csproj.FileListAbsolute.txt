@@ -1,0 +1,71 @@
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\bin\Debug\SimpleTextSearch.exe.config
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.csprojResolveAssemblyReference.cache
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\obj\Debug\MainWindow.g.cs
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\obj\Debug\App.g.cs
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch_MarkupCompile.cache
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch_MarkupCompile.lref
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\bin\Debug\SimpleTextSearch.exe
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\bin\Debug\SimpleTextSearch.pdb
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\bin\Debug\Antlr3.Runtime.dll
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\bin\Debug\ExpressionEvaluator.dll
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\bin\Debug\Antlr3.Runtime.pdb
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\obj\Debug\MainWindow.baml
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.g.resources
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.Properties.Resources.resources
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.csproj.GenerateResource.Cache
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.exe
+c:\users\mahmoud hamed\documents\visual studio 2015\Projects\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.pdb
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\SimpleTextSearch.exe.config
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\SimpleTextSearch.exe
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\SimpleTextSearch.pdb
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Antlr3.Runtime.dll
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\ExpressionEvaluator.dll
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\XamlAnimatedGif.dll
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Antlr3.Runtime.pdb
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.xml
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.xml
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\obj\Debug\MainWindow.g.cs
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\obj\Debug\App.g.cs
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch_MarkupCompile.cache
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch_MarkupCompile.lref
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\obj\Debug\MainWindow.baml
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.g.resources
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.Properties.Resources.resources
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.csproj.GenerateResource.Cache
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.exe
+D:\FCIH\Level-4_1st-term\IR\Project\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.pdb
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\SimpleTextSearch.exe.config
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\SimpleTextSearch.exe
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\SimpleTextSearch.pdb
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\ExpressionEvaluator.dll
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\XamlAnimatedGif.dll
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.xml
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.xml
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\obj\Debug\App.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch_MarkupCompile.cache
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch_MarkupCompile.lref
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.g.resources
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.Properties.Resources.resources
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.exe
+C:\Users\Mahmoud Hamed\Desktop\SimpleTextSearch\SimpleTextSearch\obj\Debug\SimpleTextSearch.pdb
